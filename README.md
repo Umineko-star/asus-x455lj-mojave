@@ -4,12 +4,12 @@
 
 # Asus X455LJ MacOS Mojave 10.14.06(18G87)
 
-Spesifikasi:
-- Prosesor: Intel Core i5-5200U
-- VGA: Intel HD Graphics 5500 & Nvidia 920M(Disabled)
-- RAM: 8GB (4x2 DDR3L)
-- Storage: Sandisk SSD Plus 120GB & HDD Hitachi 5400RPM SATA2 500GB
-- Wireless Card: Qualcomm Atheros AR9565 
+<ul>Spesifikasi :
+  <li>Prosesor: Intel Core i5-5200U</li>
+  <li>VGA: Intel HD Graphics 5500 & Nvidia 920M(Disabled)</li>
+  <li>RAM: 8GB (4x2 DDR3L)</li>
+  <li>Storage: Sandisk SSD Plus 120GB & HDD Hitachi 5400RPM SATA2 500GB</li>
+  <li>Wireless Card: Qualcomm Atheros AR9565 </li></ul>
 <img src="https://raw.githubusercontent.com/umarhadi/asus-x455lj-mojave/master/img/2.png">
 Perfect Work:
 - VGA: Intel HD Graphics 5500
