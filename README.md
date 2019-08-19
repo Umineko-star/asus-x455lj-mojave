@@ -18,8 +18,8 @@ Perfect Work:
   <li>Wireless Card Qualcomm Atheros AR9565: patch IO80211Family.kext </li>
 <li>RAM Dual Channel: native tanpa kext, 4GB DDR3L 1333 + 4GB DDR3L 1600, clockspeed yang dipakai yang 1333. Menyesuaikan clockspeed terendah dari kedua RAM.</li>
 <li>Baterai, termasuk indikatornya, shutdown, restart, sleep/hibernate: patch manual + latest ACPIBatteryManager.kext.</li>
-  <li>Tombol Fn: bekerja normal semua, termasuk brightness dgn tombol f5 f6, volume.</li>
+  <li>Tombol Fn: bekerja normal semua, termasuk brightness dgn tombol f5 f6, volume.</li></ul>
 Didn't Work:
-  <li>Realtek card reader, sudah hukum alam.</li></ul>
+  <ul><li>Realtek card reader, sudah hukum alam.</li></ul>
 
 Bagi yang ingin mencoba install, mungkin memiliki Laptop/PC dengan spesifikasi yang hampir sama, bisa baca di sini. Sudah disertai link koleksi Vanilla DMG + Clover, direct access.
