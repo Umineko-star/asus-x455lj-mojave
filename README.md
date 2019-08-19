@@ -4,8 +4,8 @@
 
 # Asus X455LJ MacOS Mojave 10.14.06(18G87)
 
-<ul>Spesifikasi :
-  <li>Prosesor: Intel Core i5-5200U</li>
+Spesifikasi :
+  <ul><li>Prosesor: Intel Core i5-5200U</li>
   <li>VGA: Intel HD Graphics 5500 & Nvidia 920M(Disabled)</li>
   <li>RAM: 8GB (4x2 DDR3L)</li>
   <li>Storage: Sandisk SSD Plus 120GB & HDD Hitachi 5400RPM SATA2 500GB</li>
